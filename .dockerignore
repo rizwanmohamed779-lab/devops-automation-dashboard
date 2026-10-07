@@ -1,0 +1,31 @@
+# Git files & history
+.git
+.gitignore
+.gitattributes
+
+# GitHub Actions workflows & config
+.github
+.agents
+
+# IDE & Editor temporary directories
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Documentation & presentation markdown files
+*.md
+LICENSE
+
+# Node & package artifacts
+node_modules
+npm-debug.log*
+package-lock.json
+
+# Docker & build caches
+Dockerfile*
+.dockerignore
+docker-compose*.yml
