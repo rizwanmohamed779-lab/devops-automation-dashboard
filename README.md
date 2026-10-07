@@ -1,7 +1,7 @@
 # 🚀 DevOps Automation Dashboard for Build & Deployment Monitoring
 
-[![CI/CD Pipeline](https://github.com/your-username/devops-automation-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/devops-automation-dashboard/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/your-username/devops-automation-dashboard/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/your-username/devops-automation-dashboard/actions/workflows/deploy-pages.yml)
+[![CI/CD Pipeline](https://github.com/rizwanmohamed779-lab/devops-automation-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/rizwanmohamed779-lab/devops-automation-dashboard/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/rizwanmohamed779-lab/devops-automation-dashboard/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/rizwanmohamed779-lab/devops-automation-dashboard/actions/workflows/deploy-pages.yml)
 [![Docker](https://img.shields.io/badge/Docker-nginx%3Aalpine-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5 / CSS3 / Vanilla JS](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/)
@@ -86,7 +86,7 @@ You can run this dashboard locally using any of the methods below.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/devops-automation-dashboard.git
+git clone https://github.com/rizwanmohamed779-lab/devops-automation-dashboard.git
 cd devops-automation-dashboard
 
 # Start Python 3 HTTP server
@@ -167,12 +167,12 @@ This project includes a continuous integration workflow configured in [`.github/
    git add .
    git commit -m "feat: complete DevOps Automation Dashboard"
    git branch -M main
-   git remote add origin https://github.com/your-username/devops-automation-dashboard.git
+   git remote add origin https://github.com/rizwanmohamed779-lab/devops-automation-dashboard.git
    git push -u origin main
    ```
 2. Navigate to your repository on GitHub &rarr; **Settings** &rarr; **Pages**.
 3. Under **Build and deployment** &rarr; **Source**, select **GitHub Actions**.
-4. The workflow in `.github/workflows/deploy-pages.yml` will automatically build and publish your dashboard to `https://your-username.github.io/devops-automation-dashboard/`.
+4. The workflow in `.github/workflows/deploy-pages.yml` will automatically build and publish your dashboard to `https://rizwanmohamed779-lab.github.io/devops-automation-dashboard/`.
 
 ---
 
